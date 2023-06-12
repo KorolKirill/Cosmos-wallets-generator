@@ -5,6 +5,6 @@
 
 <h5>To run, intall this: </h5>
 
-import cosmospy
+import cosmospy </br>
 import pandas as pd
 
